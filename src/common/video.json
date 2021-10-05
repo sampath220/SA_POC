@@ -1,0 +1,213 @@
+{
+  "data": {
+    "type": "video",
+	"id": "1519",
+	"attributes": {
+			"vid": "56899",
+			"uid": "1519",
+			"uuid": "1519",
+			"id": "1519",
+			"title": "Legacy Farm Auto & Legacy Farm Umbrella: Product Overview",
+			"log": "Edited by BRA7544.",
+			"status": "1",
+			"comment": "1",
+			"promote": "1",
+			"sticky": "0",
+			"nid": "1519",
+			"type": "video",
+			"language": "und",
+			"created": "1543852633",
+			"changed": "1571404564",
+			"tnid": "0",
+			"translate": "0",
+			"revision_timestamp": "1571404564",
+			"revision_uid": "35",
+			"body": {
+				"und": [
+					{
+						"value": "<p>Learn about our Farm Auto &amp; Farm Umbrella products<\/p>\r\n",
+						"summary": "<p><strong>Legacy Farm Auto &amp; Legacy Farm Umbrella: Product Overview<\/strong><\/p>\r\n\r\n<p>Learn about our legacy Farm Auto &amp; legacy Farm Umbrella products<\/p>\r\n",
+						"format": "full_html",
+						"safe_value": "<p>Learn about our Farm Auto &amp; Farm Umbrella products<\/p>\n",
+						"safe_summary": "<p><strong>Legacy Farm Auto &amp; Legacy Farm Umbrella: Product Overview<\/strong><\/p>\n<p>Learn about our legacy Farm Auto &amp; legacy Farm Umbrella products<\/p>\n"
+					}
+				]
+			},
+			"field_video": {
+				"und": [
+					{
+						"video_url": "https:\/\/www.youtube.com\/watch?v=z5iH7pGu1Uw",
+						"thumbnail_path": "public:\/\/video_embed_field_thumbnails\/youtube\/z5iH7pGu1Uw.jpg",
+						"video_data": "a:1:{s:7:\"handler\";s:7:\"youtube\";}",
+						"embed_code": null,
+						"description": null
+					}
+				]
+			},
+			"field_categoryy": {
+				"und": [
+					{
+						"tid": "112"
+					}
+				]
+			},
+			"field_click_count": {
+				"und": [
+					{
+						"value": "44"
+					}
+				]
+			},
+			"field_image": {
+				"und": [
+					{
+						"fid": "3104",
+						"uid": "35",
+						"filename": "Farm Auto Umbrella Product Overview.png",
+						"uri": "public:\/\/videosType\/Farm Auto Umbrella Product Overview.png",
+						"filemime": "image\/png",
+						"filesize": "1436155",
+						"status": "1",
+						"timestamp": "1543852633",
+						"rdf_mapping": [],
+						"alt": "",
+						"title": "",
+						"width": "1896",
+						"height": "1080"
+					}
+				]
+			},
+			"field_video_category": {
+				"und": [
+					{
+						"tid": "171"
+					}
+				]
+			},
+			"field_time_markers": [],
+			"field_tags": [],
+			"rdf_mapping": {
+				"rdftype": [
+					"sioc:Item",
+					"foaf:Document"
+				],
+				"title": {
+					"predicates": [
+						"dc:title"
+					]
+				},
+				"created": {
+					"predicates": [
+						"dc:date",
+						"dc:created"
+					],
+					"datatype": "xsd:dateTime",
+					"callback": "date_iso8601"
+				},
+				"changed": {
+					"predicates": [
+						"dc:modified"
+					],
+					"datatype": "xsd:dateTime",
+					"callback": "date_iso8601"
+				},
+				"body": {
+					"predicates": [
+						"content:encoded"
+					]
+				},
+				"uid": {
+					"predicates": [
+						"sioc:has_creator"
+					],
+					"type": "rel"
+				},
+				"name": {
+					"predicates": [
+						"foaf:name"
+					]
+				},
+				"comment_count": {
+					"predicates": [
+						"sioc:num_replies"
+					],
+					"datatype": "xsd:integer"
+				},
+				"last_activity": {
+					"predicates": [
+						"sioc:last_activity_date"
+					],
+					"datatype": "xsd:dateTime",
+					"callback": "date_iso8601"
+				}
+			},
+			"path": {
+				"pid": "14018",
+				"source": "node\/1519",
+				"alias": "content\/legacy-farm-auto-legacy-farm-umbrella-product-overview",
+				"language": "und",
+				"pathauto": "1"
+			},
+			"cid": "0",
+			"last_comment_timestamp": "1543852633",
+			"last_comment_name": null,
+			"last_comment_uid": "35",
+			"comment_count": "0",
+			"name": "BRA7544",
+			"picture": "0",
+			"data": "a:5:{s:16:\"ckeditor_default\";s:1:\"t\";s:20:\"ckeditor_show_toggle\";s:1:\"t\";s:14:\"ckeditor_width\";s:4:\"100%\";s:13:\"ckeditor_lang\";s:2:\"en\";s:18:\"ckeditor_auto_lang\";s:1:\"t\";}",
+			"workbench_access": [],
+			"print_html_display": 0,
+			"print_html_display_comment": 0,
+			"print_html_display_urllist": 0,
+			"print_pdf_display": 0,
+			"print_pdf_display_comment": 0,
+			"print_pdf_display_urllist": 0,
+			"print_pdf_size": "",
+			"print_pdf_orientation": "",
+			"workbench_moderation": {
+				"current": {
+					"hid": "2834",
+					"vid": "56899",
+					"nid": "1519",
+					"from_state": "published",
+					"state": "published",
+					"uid": "35",
+					"stamp": "1571404564",
+					"published": "1",
+					"is_current": 1,
+					"title": "Legacy Farm Auto & Legacy Farm Umbrella: Product Overview",
+					"timestamp": "1571404564"
+				},
+				"published": {
+					"hid": "2834",
+					"vid": "56899",
+					"nid": "1519",
+					"from_state": "published",
+					"state": "published",
+					"uid": "35",
+					"stamp": "1571404564",
+					"published": "1",
+					"is_current": 1,
+					"title": "Legacy Farm Auto & Legacy Farm Umbrella: Product Overview",
+					"timestamp": "1571404564"
+				},
+				"my_revision": {
+					"hid": "2834",
+					"vid": "56899",
+					"nid": "1519",
+					"from_state": "published",
+					"state": "published",
+					"uid": "35",
+					"stamp": "1571404564",
+					"published": "1",
+					"is_current": 1,
+					"title": "Legacy Farm Auto & Legacy Farm Umbrella: Product Overview",
+					"timestamp": "1571404564"
+				}
+			}
+		},
+    "relationships": {
+    }
+  }
+}

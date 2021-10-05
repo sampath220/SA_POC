@@ -1,0 +1,243 @@
+{
+	"data": {
+		"type": "learning_tools",
+		"id": "746",
+		"attributes": {
+			"vid": "55453",
+			"uid": "746",
+			"uuid": "746",
+			"id": "746",
+			"title": "Auto Quoting",
+			"log": "Edited by BRA7544.",
+			"status": "0",
+			"comment": "1",
+			"promote": "1",
+			"sticky": "0",
+			"nid": "746",
+			"type": "learning_tools",
+			"language": "und",
+			"created": "1520277846",
+			"changed": "1552918945",
+			"tnid": "0",
+			"translate": "0",
+			"revision_timestamp": "1552918945",
+			"revision_uid": "35",
+			"body": {
+				"und": [
+					{
+						"value": "<h2><strong>Index:<\/strong><\/h2>\r\n\r\n<ol>\r\n\t<li><a href=\"http:\/\/Steplink#1\">Starting Your Quote<\/a><\/li>\r\n\t<li><a href=\"#linkStep2\">Your Information Screen<\/a><\/li>\r\n\t<li><a href=\"#linkStep3\">Drivers Screen<\/a><\/li>\r\n\t<li><a href=\"#linkStep4\">Vehicles Screen<\/a><\/li>\r\n\t<li><a href=\"#linkStep5\">Quote Screen<\/a><\/li>\r\n\t<li><a href=\"#linkStep6\">Proposal Screen<\/a><\/li>\r\n\t<li><a href=\"#linkStep7\">Payment Details Screen<\/a><\/li>\r\n\t<li><a href=\"#linkStep8\">Confirmation Screen<\/a><\/li>\r\n\t<li><a href=\"#linkStep9\">Policy Details Screen<\/a><\/li>\r\n<\/ol>\r\n",
+						"summary": "",
+						"format": "full_html",
+						"safe_value": "<h2><strong>Index:<\/strong><\/h2>\n<ol><li><a href=\"http:\/\/Steplink#1\">Starting Your Quote<\/a><\/li>\n<li><a href=\"#linkStep2\">Your Information Screen<\/a><\/li>\n<li><a href=\"#linkStep3\">Drivers Screen<\/a><\/li>\n<li><a href=\"#linkStep4\">Vehicles Screen<\/a><\/li>\n<li><a href=\"#linkStep5\">Quote Screen<\/a><\/li>\n<li><a href=\"#linkStep6\">Proposal Screen<\/a><\/li>\n<li><a href=\"#linkStep7\">Payment Details Screen<\/a><\/li>\n<li><a href=\"#linkStep8\">Confirmation Screen<\/a><\/li>\n<li><a href=\"#linkStep9\">Policy Details Screen<\/a><\/li>\n<\/ol>",
+						"safe_summary": ""
+					}
+				]
+			},
+			"field_taxx": {
+				"und": [
+					{
+						"tid": "84"
+					}
+				]
+			},
+			"field_imagetool": {
+				"und": [
+					{
+						"fid": "785",
+						"uid": "14",
+						"filename": "Auto.png",
+						"uri": "public:\/\/learningTools\/Auto.png",
+						"filemime": "image\/png",
+						"filesize": "13042",
+						"status": "1",
+						"timestamp": "1520360666",
+						"rdf_mapping": [],
+						"alt": "",
+						"title": "",
+						"width": "730",
+						"height": "940"
+					}
+				]
+			},
+			"field_click_count": {
+				"und": [
+					{
+						"value": "72"
+					}
+				]
+			},
+			"field_sub_title": {
+				"und": [
+					{
+						"value": "State Auto Connect",
+						"format": null,
+						"safe_value": "State Auto Connect"
+					}
+				]
+			},
+			"field_icon_type": {
+				"und": [
+					{
+						"value": "2"
+					}
+				]
+			},
+			"field_step_content": {
+				"und": [
+					{
+						"value": "43",
+						"revision_id": "6799"
+					},
+					{
+						"value": "44",
+						"revision_id": "6800"
+					},
+					{
+						"value": "45",
+						"revision_id": "6801"
+					},
+					{
+						"value": "46",
+						"revision_id": "6802"
+					},
+					{
+						"value": "47",
+						"revision_id": "6803"
+					},
+					{
+						"value": "48",
+						"revision_id": "6804"
+					},
+					{
+						"value": "49",
+						"revision_id": "6805"
+					},
+					{
+						"value": "50",
+						"revision_id": "6806"
+					},
+					{
+						"value": "51",
+						"revision_id": "6807"
+					}
+				]
+			},
+			"field_learning_tools_category": {
+				"und": [
+					{
+						"tid": "193"
+					}
+				]
+			},
+			"field_tags": [],
+			"rdf_mapping": {
+				"rdftype": [
+					"sioc:Item",
+					"foaf:Document"
+				],
+				"title": {
+					"predicates": [
+						"dc:title"
+					]
+				},
+				"created": {
+					"predicates": [
+						"dc:date",
+						"dc:created"
+					],
+					"datatype": "xsd:dateTime",
+					"callback": "date_iso8601"
+				},
+				"changed": {
+					"predicates": [
+						"dc:modified"
+					],
+					"datatype": "xsd:dateTime",
+					"callback": "date_iso8601"
+				},
+				"body": {
+					"predicates": [
+						"content:encoded"
+					]
+				},
+				"uid": {
+					"predicates": [
+						"sioc:has_creator"
+					],
+					"type": "rel"
+				},
+				"name": {
+					"predicates": [
+						"foaf:name"
+					]
+				},
+				"comment_count": {
+					"predicates": [
+						"sioc:num_replies"
+					],
+					"datatype": "xsd:integer"
+				},
+				"last_activity": {
+					"predicates": [
+						"sioc:last_activity_date"
+					],
+					"datatype": "xsd:dateTime",
+					"callback": "date_iso8601"
+				}
+			},
+			"path": {
+				"pid": "745",
+				"source": "node\/746",
+				"alias": "content\/auto-quoting",
+				"language": "und",
+				"pathauto": "1"
+			},
+			"cid": "0",
+			"last_comment_timestamp": "1520277846",
+			"last_comment_name": null,
+			"last_comment_uid": "14",
+			"comment_count": "0",
+			"name": "BRA7544",
+			"picture": "0",
+			"data": "a:5:{s:16:\"ckeditor_default\";s:1:\"t\";s:20:\"ckeditor_show_toggle\";s:1:\"t\";s:14:\"ckeditor_width\";s:4:\"100%\";s:13:\"ckeditor_lang\";s:2:\"en\";s:18:\"ckeditor_auto_lang\";s:1:\"t\";}",
+			"workbench_access": [],
+			"print_html_display": 1,
+			"print_html_display_comment": 0,
+			"print_html_display_urllist": 0,
+			"print_pdf_display": 1,
+			"print_pdf_display_comment": 0,
+			"print_pdf_display_urllist": 0,
+			"print_pdf_size": "",
+			"print_pdf_orientation": "",
+			"workbench_moderation": {
+				"current": {
+					"hid": "2013",
+					"vid": "55453",
+					"nid": "746",
+					"from_state": "published",
+					"state": "draft",
+					"uid": "35",
+					"stamp": "1552918945",
+					"published": "0",
+					"is_current": 1,
+					"title": "Auto Quoting",
+					"timestamp": "1552918945"
+				},
+				"my_revision": {
+					"hid": "2013",
+					"vid": "55453",
+					"nid": "746",
+					"from_state": "published",
+					"state": "draft",
+					"uid": "35",
+					"stamp": "1552918945",
+					"published": "0",
+					"is_current": 1,
+					"title": "Auto Quoting",
+					"timestamp": "1552918945"
+				}
+			}
+		},
+		"relationships": {}
+	}
+}
